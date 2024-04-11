@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 400c87d027b69a14d975dab6936ea792, type: 3}
+  m_Name: Catalan
+  m_EditorClassIdentifier: 
+  texto1: General Greaivus
+  texto2: "Va ser un c\xEDborg que va ocupar el c\xE0rrec de Comandant Suprem de
+    l'Ex\xE8rcit Droide de la Confederaci\xF3 de Sistemes Independents durant gran
+    part de les Guerres Clon."
+  texto3: "Victor aprova'm i que la for\xE7a t'acompanyi"
+  texto4: "Grievous va ser mort poc despr\xE9s a la Batalla d'Utapau a mans de Kenobi"

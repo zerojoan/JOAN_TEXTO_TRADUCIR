@@ -1033,13 +1033,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 890132684}
+  - component: {fileID: 890132685}
   m_Layer: 0
   m_Name: Portuges
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &890132684
 Transform:
   m_ObjectHideFlags: 0
@@ -1059,6 +1060,23 @@ Transform:
   - {fileID: 1063918553}
   m_Father: {fileID: 1129033231}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &890132685
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 890132683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74021a8ce9ff88d40b206a91785d03e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  traduccion: {fileID: 11400000, guid: 512ea920e8e06a24f9cc881fea786851, type: 2}
+  _texto1: {fileID: 1515531396}
+  _texto2: {fileID: 1086213067}
+  _texto3: {fileID: 1912182838}
+  _texto4: {fileID: 1063918554}
 --- !u!1 &896941405
 GameObject:
   m_ObjectHideFlags: 0
@@ -1394,13 +1412,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1051772646}
+  - component: {fileID: 1051772647}
   m_Layer: 0
   m_Name: Castellano
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1051772646
 Transform:
   m_ObjectHideFlags: 0
@@ -1420,6 +1439,23 @@ Transform:
   - {fileID: 729092869}
   m_Father: {fileID: 1129033231}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1051772647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1051772645}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74021a8ce9ff88d40b206a91785d03e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  traduccion: {fileID: 11400000, guid: 1e8da7ae57d83fe45982e898003d660e, type: 2}
+  _texto1: {fileID: 1037963115}
+  _texto2: {fileID: 307003628}
+  _texto3: {fileID: 1070090710}
+  _texto4: {fileID: 729092870}
 --- !u!1 &1063918552
 GameObject:
   m_ObjectHideFlags: 0
@@ -2177,6 +2213,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1547591803}
+  - component: {fileID: 1547591804}
   m_Layer: 0
   m_Name: Catalan
   m_TagString: Untagged
@@ -2203,6 +2240,23 @@ Transform:
   - {fileID: 143351399}
   m_Father: {fileID: 1129033231}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1547591804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1547591802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74021a8ce9ff88d40b206a91785d03e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  traduccion: {fileID: 11400000, guid: c8397f40a76de9949a00b3d0364e8e75, type: 2}
+  _texto1: {fileID: 244606882}
+  _texto2: {fileID: 1226552906}
+  _texto3: {fileID: 978955455}
+  _texto4: {fileID: 143351400}
 --- !u!1 &1585725953
 GameObject:
   m_ObjectHideFlags: 0
